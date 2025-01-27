@@ -1,0 +1,21 @@
+body {
+
+    margin: 0;
+}
+
+/* header */
+
+#pattern {
+
+    background-image: url(../img/pattern.png);
+    background-color: rgba(78,160,255,255);
+    background-size: auto;
+    background-position:top right;
+}
+
+header img {
+
+    width: 340px;
+    height: auto;
+    margin: 80px 0 10px 10px;
+}
