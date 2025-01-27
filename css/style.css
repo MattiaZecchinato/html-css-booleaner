@@ -58,3 +58,15 @@ main {
 
     margin-top: 0;
 }
+
+/* section description */
+
+#description-section span {
+
+    background-color: yellow;
+}
+
+#description-section ul{
+
+    padding-left:15px;
+}
