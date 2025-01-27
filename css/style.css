@@ -61,6 +61,11 @@ main {
 
 /* section description */
 
+#description-section {
+
+    font-size: 24px;
+}
+
 #description-section span {
 
     background-color: yellow;
@@ -72,6 +77,11 @@ main {
 }
 
 /* section table */
+
+#table-lorem {
+
+    font-size: 24px;
+}
 
 #table-lorem table {
 
@@ -97,6 +107,11 @@ tr:nth-child(odd) {
 }
 
 /* section description pt.2 */
+
+#description-section-2 {
+
+    font-size: 24px;
+}
 
 #description-section-2 span {
 
