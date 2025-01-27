@@ -51,3 +51,10 @@ main {
     color: grey;
     margin-top: 0;
 }
+
+/* section Tim Berners-Lee image */
+
+#image-tim-section p {
+
+    margin-top: 0;
+}
