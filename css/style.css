@@ -70,3 +70,28 @@ main {
 
     padding-left:15px;
 }
+
+/* section table */
+
+#table-lorem table {
+
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+#table-lorem th {
+
+    color: white;
+    background-color: rgba(32,169,229,255);
+}
+
+#table-lorem td {
+
+    width: 33%;
+}
+
+tr:nth-child(odd) {
+
+    background-color: rgba(177,229,242,255);
+}
