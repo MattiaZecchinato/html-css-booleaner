@@ -3,6 +3,7 @@ body {
     margin: 0;
 }
 
+
 /* header */
 
 #pattern {
@@ -19,6 +20,7 @@ header img {
     height: auto;
     margin: 80px 0 10px 10px;
 }
+
 
 /* main */
 
@@ -116,4 +118,39 @@ tr:nth-child(odd) {
 #description-section-2 span {
 
     background-color: yellow;
+}
+
+
+/* footer */
+
+footer {
+
+    margin: 50px 0 0 10px;
+}
+
+#footer-text h2 {
+
+    color: grey;
+}
+
+#footer-image h2 {
+
+    color: white;
+    padding: 15px;
+}
+
+#monitor-img {
+
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+}
+
+#graph-img {
+
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
 }
