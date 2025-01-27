@@ -19,3 +19,35 @@ header img {
     height: auto;
     margin: 80px 0 10px 10px;
 }
+
+/* main */
+
+main {
+
+    margin: 10px;
+}
+
+/* section title */
+
+#title-section h1 {
+
+    font-size: 70px;
+    margin: 0;
+}
+
+#title-section h2 {
+
+    color: grey;
+    margin: 0;
+}
+
+#color-change {
+
+    color: aqua;
+}
+
+#title-section p {
+
+    color: grey;
+    margin-top: 0;
+}
